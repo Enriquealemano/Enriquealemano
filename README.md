@@ -44,7 +44,7 @@
 ## 📫 Contacto
 
 - ✉️ Correo: jfeao94@hotmail.com
-- 🔗 LinkedIn: [www.linkedin.com/in/qa-juan-francisco-enrique-aleman-ortega]
+- 🔗 LinkedIn: www.linkedin.com/in/qa-juan-francisco-enrique-aleman-ortega
 
 
 ---
