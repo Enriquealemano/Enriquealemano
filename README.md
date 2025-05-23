@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Juan Francisco Enrique Alemán Ortega]
+# 👋 ¡Hola! Soy Juan Francisco Enrique Alemán Ortega
 
 🎯 **Ingeniero en Tecnologías de la Información** en transición hacia el rol de **QA Tester**. Apasionado por la calidad del software y comprometido con la entrega de productos confiables y funcionales.
 
