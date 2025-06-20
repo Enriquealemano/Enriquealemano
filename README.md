@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Juan Francisco Enrique Alemán Ortega
+# 👋 ¡Hola! Soy  Enrique Alemán Ortega
 
 🎯 **Ingeniero en Tecnologías de la Información** en transición hacia el rol de **QA Tester**. Apasionado por la calidad del software y comprometido con la entrega de productos confiables y funcionales.
 
@@ -43,8 +43,8 @@
 
 ## 📫 Contacto
 
-- ✉️ Correo: jfeao94@hotmail.com
-- 🔗 LinkedIn: www.linkedin.com/in/qa-juan-francisco-enrique-aleman-ortega
+- ✉️ Correo: francisco.enrique.alemano@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/enriquealeman-qaengeneer/
 
 
 ---
