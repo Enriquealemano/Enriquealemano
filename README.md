@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Enriquealemano/Enriquealemano/Banner de LinkedIn Tecnología Negro (1).png" alt="Banner de perfil" />
+</p>
+
 
 # 👋 ¡Hola! Soy  Enrique Alemán Ortega
 
