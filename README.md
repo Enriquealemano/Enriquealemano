@@ -1,6 +1,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Enriquealemano/Enriquealemano/main/Banner%20de%20LinkedIn%20Tecnolog%C3%ADa%20Negro%20%281%29.png" alt="Banner de perfil" />
 </p>
+
+
 # 👋 ¡Hola! Soy  Enrique Alemán Ortega
 
 🎯 **Ingeniero en Tecnologías de la Información** en transición hacia el rol de **QA Tester**. Apasionado por la calidad del software y comprometido con la entrega de productos confiables y funcionales.
