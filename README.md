@@ -49,7 +49,8 @@
 ## 📫 Contacto
 
 - ✉️ Correo: francisco.enrique.alemano@gmail.com
-- 🔗 LinkedIn: https://www.linkedin.com/in/enriquealeman-qaengeneer/
+- 🔗 LinkedIn: www.linkedin.com/in/enriquealeman-qaengineer
+
 
 
 ---
